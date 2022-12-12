@@ -1,3 +1,7 @@
-# Laboratório de Programação Avançada
+# Laboratório 1
 
-Trabalhos da Disciplina de Laboratório de Programação Avançada 2022/1
+Para testar o código é preciso compilar tudo e passar um .txt de eventos como argumento do executável, use os 3 comandos seguintes:
+
+gcc -c lista.c evento.c
+gcc -o main questaoX.c evento.o lista.o
+./main arquivo.txt
