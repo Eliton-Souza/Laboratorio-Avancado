@@ -1,0 +1,10 @@
+Fulano de Tal 1o	3609593261	18
+Fulano de Tal 2o	1804796630	19
+Fulano de Tal 3o	1203197753	20
+Fulano de Tal 4o	902398315	21
+Fulano de Tal 5o	721918652	22
+Fulano de Tal 6o	601598876	23
+Fulano de Tal 7o	515656180	24
+Fulano de Tal 8o	451199157	25
+Fulano de Tal 9o	401065917	26
+Fulano de Tal 10o	360959326	27
