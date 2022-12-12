@@ -1,6 +1,6 @@
 # Laboratório 5
 
-Para executar o código use os comandos seguintes:
+<p>Para executar o código use os comandos seguintes: </p>
 
-gcc -o main manipula.c main.c
+gcc -o main manipula.c main.c <br>
 ./main 'tamanho máximo' ' uma string'
